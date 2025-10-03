@@ -1,3 +1,5 @@
 first line of code.
 working with branch
+3rd line
 creating conflict
+
